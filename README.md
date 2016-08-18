@@ -1,0 +1,2 @@
+# Kaleidoscope
+Misc algorithm implementation
